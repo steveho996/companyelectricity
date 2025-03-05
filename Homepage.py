@@ -11,4 +11,4 @@ st.write("""This Data Analysis Report base on company's data file **Electricity_
 
 
 # Display an image from a local file
-st.image("/Users/HoLuongDuc/Mac Air Data/Master Degree/Data and Math/Python/Elec.jpg", caption="Electricity Cost Management", use_container_width=True)
+st.image("Elec.jpg", caption="Electricity Cost Management", use_container_width=True)
