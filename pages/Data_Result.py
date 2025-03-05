@@ -7,7 +7,7 @@ st.write("""In this page, the data is dynamically updated based on the chosen ti
          \nBase on the data index, the stakeholders are able to select a custom date range to analyze electricity usage, total bill and pricing for a specific period.""")
 
 # Load data
-path1 = '/Users/HoLuongDuc/Mac Air Data/Master Degree/Data and Math/Python/Electricity_20-09-2024.csv'
+path1 = 'Electricity_20-09-2024.csv'
 path2 = '/Users/HoLuongDuc/Mac Air Data/Master Degree/Data and Math/Python/sahkon-hinta-010121-240924.csv'
 
 df1 = pd.read_csv(path1, sep=';')
