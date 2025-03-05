@@ -9,7 +9,7 @@ st.write("""In this page, data can be grouped by daily, weekly, or monthly inter
          This enables stakeholders to plan the use of electricity effectively, which leads to reduced operational costs.""")
 
 # Load data 
-path1 = '/Users/HoLuongDuc/Mac Air Data/Master Degree/Data and Math/Python/Electricity_20-09-2024.csv'
+path1 = 'Electricity_20-09-2024.csv'
 path2 = 'sahkon-hinta-010121-240924.csv'
 
 df1 = pd.read_csv(path1, sep=';')
