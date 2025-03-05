@@ -8,7 +8,7 @@ st.write("""In this page, the data is dynamically updated based on the chosen ti
 
 # Load data
 path1 = 'Electricity_20-09-2024.csv'
-path2 = '/Users/HoLuongDuc/Mac Air Data/Master Degree/Data and Math/Python/sahkon-hinta-010121-240924.csv'
+path2 = 'sahkon-hinta-010121-240924.csv'
 
 df1 = pd.read_csv(path1, sep=';')
 df2 = pd.read_csv(path2, sep=',')
