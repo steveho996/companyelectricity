@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Data Report", layout="wide")
+st.set_page_config(page_title="Electricity Report", layout="wide")
 
 st.title("📊 Data Analysis Report")
 st.sidebar.success("Select a sidebar above 🖕")
