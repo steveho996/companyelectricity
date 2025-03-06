@@ -1,8 +1,8 @@
 import pandas as pd
 import streamlit as st
 
-st.title("🔢 Data Result")
-st.sidebar.header("🔢 Data Result - Page 1")
+st.title("🔢 Data Numbers")
+st.sidebar.header("🔢 Data Numbers - Page 1")
 st.write("""In this page, the data is dynamically updated based on the chosen timeframe.
          \nBase on the data index, the stakeholders are able to select a custom date range to analyze electricity usage, total bill and pricing for a specific period.""")
 
